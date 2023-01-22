@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi and welcome to my profile 😄
 
-### Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/MPoleto">
